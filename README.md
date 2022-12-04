@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I am Makiko Vaughan
 
 <!--
 **makikovaughan/makikovaughan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+I am currently seeking for a Jr. Full Stack Development position and participating 460+ training hours at Generation USA to change my career.
+---
 
 Here are some ideas to get you started:
 
