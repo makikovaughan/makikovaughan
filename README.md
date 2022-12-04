@@ -8,7 +8,7 @@
 - 🏆 Passed W3Schools JavaScript Certification and earned Linkedin JavaScript and HTML badges in November, 2022.
 - 🌱 I’m currently learning JavaScript, Java, HTML, CSS.
 - ⚡ In my free time, I practice JavaScript on edabit.
-- 📫 How to reach me:  <a href="[your-linkedin-URL](https://www.linkedin.com/in/makiko-vaughan/)">
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/makiko-vaughan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
