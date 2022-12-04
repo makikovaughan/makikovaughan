@@ -9,6 +9,8 @@ I passed W3Schools JavaScript Certification in November, 2022 and earned the Lin
 
 ---
 
+:toolbox:
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
