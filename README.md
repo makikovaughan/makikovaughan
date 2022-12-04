@@ -5,6 +5,8 @@
 
 I am currently seeking for a Jr. Full Stack Development position and participating 460+ training hours at Generation USA to change my career.
 
+I passed W3Schools JavaScript Certification in November, 2022 and earned the LinkedIn's JavaScript and HTML badge in November, 2022 also.
+
 ---
 
 Here are some ideas to get you started:
