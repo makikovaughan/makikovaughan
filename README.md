@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently seeking a Junior Full Stack Developement opportunity(Intern, Apprentice, Fulltime, Contractor)
-- 📚 I am currently in the Junior Full Stack Java Developer program at Generation USA(Expected to be completed in December, 2022).
+- 📚 I complete the Junior Full Stack Java Developer program at Generation USA(December 16, 2022) and am going to attend FastTrack'D program from Cook Systems.
 - 🏆 Passed W3Schools JavaScript Certification and earned Linkedin JavaScript and HTML badges in November, 2022.
 - 🌱 I’m currently learning JavaScript, Java, HTML, CSS.
 - ⚡ In my free time, I practice JavaScript on edabit.
