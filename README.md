@@ -6,8 +6,8 @@
 - 🔭 I’m currently seeking a Junior Full Stack Developement opportunity(Intern, Apprentice, Fulltime, Contractor)
 - 📚 I completed the Junior Full Stack Java Developer program at Generation USA(December 16, 2022) and completed Cook System's FastTrack'D program in March, 2023.
 - 🏆 Passed W3Schools JavaScript Certification and earned Linkedin JavaScript and HTML badges in November, 2022.
-- 🌱 I’m currently learning JavaScript, Java, HTML, CSS, React. My new study is Python.
-- ⚡ In my free time, I practice JavaScript on edabit.
+- 🌱 I’m currently learning JavaScript, Java, HTML, CSS, React.
+- ⚡ In my free time, I practice JavaScript on edabit and study Python using Codecademy.
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/makiko-vaughan/" target=" _blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
