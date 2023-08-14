@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently seeking a Junior Full Stack Developement opportunity(Intern, Apprentice, Fulltime, Contractor)
+- 🔭 I’m going to work as an Implementation Consultant from October, 2023.
 - 📚 I completed the Junior Full Stack Java Developer program at Generation USA(December 16, 2022) and completed Cook System's FastTrack'D program in March, 2023.
 - 🏆 Passed W3Schools JavaScript Certification and earned Linkedin JavaScript and HTML badges in November, 2022.
 - 🌱 I’m currently learning JavaScript, Java, HTML, CSS, React.
